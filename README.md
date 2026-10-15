@@ -1,5 +1,3 @@
-![Logo Clever Cloud](./assets/clever-cloud-logo.png)
-
 # Deploy a V (veb) application on Clever Cloud
 [![Clever Cloud - PaaS](https://img.shields.io/badge/Clever%20Cloud-PaaS-orange)](https://clever-cloud.com)
 
